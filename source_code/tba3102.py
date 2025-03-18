@@ -266,6 +266,8 @@ def normalize_corpus(dataframe, raw_column, clean_column,
         text = ' '.join(word_tokens)
         
         dataframe.loc[i, clean_column] = text
+
+        print('Processed row: {} / {}'.format(i+1, len(dataframe)))
     
     return dataframe
 
