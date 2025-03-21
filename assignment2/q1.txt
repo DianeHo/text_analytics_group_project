@@ -1,0 +1,25 @@
+Current highest pairwise document similarity is 0.880272871278451 between review 14891 and review 28280
+
+easy use intuition figure function operation
+large display make easy use easy use
+
+
+
+Current highest pairwise document similarity is 1.0 between review 59 and review 14891
+
+easy figure use extensively vacation
+easy use intuition figure function operation
+
+
+
+Current highest pairwise document similarity is 1.0000000000000002 between review 9989 and review 7575
+
+purchase nephew niece holiday love
+purchase granddaughter 13 love
+
+
+
+Highest pairwise document similarity is 1.0000000000000004 between review 21432 and review 18255
+
+buy mother gift li
+buy gift mother law birthday
