@@ -5,9 +5,9 @@ from praw.exceptions import APIException
 
 # Initialize Reddit API client with your credentials
 reddit = praw.Reddit(
-    client_id='1iXP2XSx1IpEBc-650U_jg',  # Replace with your client ID
-    client_secret='gPIYPDKwvUEzyGyMJ4ptK9bSigfegw',  # Replace with your client secret
-    user_agent='yapyd'  # Replace with your user agent
+    client_id='CLIENT_ID',  # Replace with your client ID
+    client_secret='CLIENT_SECRET',  # Replace with your client secret
+    user_agent='USER_AGENT'  # Replace with your user agent
 )
 
 # Post URL
