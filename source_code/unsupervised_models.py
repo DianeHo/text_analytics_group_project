@@ -70,7 +70,7 @@ def analyze_sentiment_sentiwordnet_lexicon(review, verbose=False):
 
     return final_sentiment
 
-def analyze_sentiment_vader_lexicon(review, threshold=0.5, verbose=False):
+def analyze_sentiment_vader_lexicon(review, threshold=1.0, verbose=False):
 
     # analyze the sentiment for review
     analyzer = SentimentIntensityAnalyzer()
